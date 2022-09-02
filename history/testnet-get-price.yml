@@ -1,7 +1,7 @@
 url: https://gate.flint-wallet.com/testnet/pricefeed/getPrice
 status: up
 code: 200
-responseTime: 170
-lastUpdated: 2022-09-01T23:03:51.516Z
+responseTime: 200
+lastUpdated: 2022-09-02T23:01:28.264Z
 startTime: Wed Aug 31 2022 20:23:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
