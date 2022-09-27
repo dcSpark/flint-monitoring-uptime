@@ -4,71 +4,79 @@
     "url": "https://gate.flint-wallet.com/mainnet/status",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "mainnet-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 192,
-    "timeWeek": 213,
+    "timeDay": 207,
+    "timeWeek": 214,
     "timeMonth": 232,
     "timeYear": 232,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "mainnet-getPrice",
     "url": "https://gate.flint-wallet.com/mainnet/pricefeed/getPrice",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "mainnet-get-price",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 183,
-    "timeWeek": 119,
-    "timeMonth": 128,
-    "timeYear": 128,
-    "dailyMinutesDown": {}
+    "time": 126,
+    "timeDay": 114,
+    "timeWeek": 110,
+    "timeMonth": 126,
+    "timeYear": 126,
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "testnet-status",
     "url": "https://gate.flint-wallet.com/testnet/status",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "testnet-status",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 75,
-    "timeWeek": 59,
+    "timeDay": 73,
+    "timeWeek": 60,
     "timeMonth": 63,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   },
   {
     "name": "testnet-getPrice",
     "url": "https://gate.flint-wallet.com/testnet/pricefeed/getPrice",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "testnet-get-price",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 151,
-    "timeWeek": 110,
-    "timeMonth": 122,
-    "timeYear": 122,
-    "dailyMinutesDown": {}
+    "time": 120,
+    "timeDay": 103,
+    "timeWeek": 104,
+    "timeMonth": 120,
+    "timeYear": 120,
+    "dailyMinutesDown": {
+      "2022-09-27": 0
+    }
   }
 ]
