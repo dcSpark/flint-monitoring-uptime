@@ -4,19 +4,19 @@
     "url": "https://gate.flint-wallet.com/mainnet/status",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "mainnet-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 232,
-    "timeDay": 207,
-    "timeWeek": 214,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 235,
+    "timeDay": 252,
+    "timeWeek": 228,
+    "timeMonth": 235,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2022-09-27": 0
+      "2022-09-27": 29
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://gate.flint-wallet.com/mainnet/pricefeed/getPrice",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "mainnet-get-price",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 126,
-    "timeDay": 114,
-    "timeWeek": 110,
-    "timeMonth": 126,
-    "timeYear": 126,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 127,
+    "timeDay": 136,
+    "timeWeek": 118,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2022-09-27": 0
+      "2022-09-27": 29
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://gate.flint-wallet.com/testnet/status",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "testnet-status",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 63,
-    "timeDay": 73,
-    "timeWeek": 60,
-    "timeMonth": 63,
-    "timeYear": 63,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 64,
+    "timeDay": 79,
+    "timeWeek": 64,
+    "timeMonth": 64,
+    "timeYear": 64,
     "dailyMinutesDown": {
-      "2022-09-27": 0
+      "2022-09-27": 29
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://gate.flint-wallet.com/testnet/pricefeed/getPrice",
     "icon": "https://favicons.githubusercontent.com/gate.flint-wallet.com",
     "slug": "testnet-get-price",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 103,
-    "timeWeek": 104,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 122,
+    "timeDay": 131,
+    "timeWeek": 113,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2022-09-27": 0
+      "2022-09-27": 29
     }
   }
 ]
